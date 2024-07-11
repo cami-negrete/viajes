@@ -1,9 +1,9 @@
 ### Prueba bootcamp Sitio Web
-#Viajes Chile
+# Viajes Chile
 
 ### [Page view](https://cami-negrete.github.io/viajes/ "Page view")
 
-######Herramientas
+###### Herramientas
 - HTML 5
 - CSS
 - Javascript
@@ -17,4 +17,4 @@
 
 ## Autor: Camila Negrete
 
-###End
+### End
